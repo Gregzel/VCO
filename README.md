@@ -1,2 +1,7 @@
 # VCO-eagle
-Oscillateur CommandÃ© en Tension
+Realisation d'un Oscillateur Commandé en Tension
+
+Documentation, layout dans le dossier VCO.
+
+## Logiciel
+![](/Eagle.png)
